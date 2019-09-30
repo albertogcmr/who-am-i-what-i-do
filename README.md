@@ -4,7 +4,7 @@ Alberto García Cobo
 
 [Github](https://github.com/albertogcmr/) | 
 [Codewars](https://www.codewars.com/users/albertogcmr) | 
-[LinkedIn](https://www.linkedin.com/in/albertogarciacobo/)
+[LinkedIn](https://www.linkedin.com/in/albertogarciacobo/) | 
 [Kaggle](https://www.kaggle.com/albertogcmr)
 
 # CV
