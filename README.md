@@ -11,6 +11,8 @@ Alberto García Cobo
 
 - [CV english](https://github.com/albertogcmr/who-am-i-what-i-do/blob/master/files/Alberto%20Garc%C3%ADa%20Cobo%20CV%20-%20Canvas%20-%20ENG.pdf)
 - [CV spanish](https://github.com/albertogcmr/who-am-i-what-i-do/blob/master/files/Alberto%20Garc%C3%ADa%20Cobo%20CV%20-%20Canvas.pdf)
+- [CV Notion](https://www.notion.so/Hello-42f88b6ee63f4bbbb34980b678fb88e8)
+- [CV LaTeX]()
 
 
 # Projects
