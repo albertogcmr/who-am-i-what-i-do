@@ -34,6 +34,7 @@ Alberto García Cobo
 
 - [Kaggle Academic Competition](https://github.com/albertogcmr/academic-kaggle-competitions)
 - [MTG]()
+- [Hands-On Machine Learning with Skikit-Learn & TensorFlow](git@github.com:albertogcmr/hands-on-ML.git)
 
 ## Data Visualization
 
